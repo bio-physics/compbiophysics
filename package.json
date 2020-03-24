@@ -1,0 +1,25 @@
+{
+  "name": "bio-physics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bio-physics/compbiophysics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bio-physics/compbiophysics/issues"
+  },
+  "homepage": "https://github.com/bio-physics/compbiophysics#readme",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "ssh2-sftp-client": "^5.1.2",
+    "upath": "^1.2.0"
+  }
+}
