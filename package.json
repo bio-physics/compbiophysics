@@ -19,7 +19,7 @@
   "homepage": "https://github.com/bio-physics/compbiophysics#readme",
   "dependencies": {
     "glob": "^7.1.6",
-    "ssh2-sftp-client": "^5.1.2",
+    "ssh2-sftp-client": "^9.1.0",
     "upath": "^1.2.0"
   }
 }
